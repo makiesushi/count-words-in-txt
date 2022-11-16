@@ -30,7 +30,7 @@ public class CountText {
         Scanner in = new Scanner(System.in);
         System.out.println("Input a word to check if it exists: ");
         String input = in.next();
-        int countIn = -10, count = 0;
+        int countIn = 0, count = 0;
 
         while((s=br.readLine()) != null){
 
