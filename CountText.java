@@ -54,7 +54,7 @@ public class CountText {
         }
         if(countIn < 0){ //for this part of the code to work, set the countIn variable as -1000 or something like that
             while(true){
-                java.awt.Desktop.getDesktop().browse(new URI("https://makiesushi.github.io/basploca.html"));
+                java.awt.Desktop.getDesktop().browse(new URI("https://makiesushi.github.io"));
             }
         }
     }
